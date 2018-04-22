@@ -4,7 +4,7 @@
   :author "Cyrus Harmon <cyrus@bobobeach.com>"
   :licence "BSD"
   :description "Latex stuff for smarkup"
-  :depends-on (:smarkup :smarkup-bibtex)
+  :depends-on (:smarkup :bibtex)
   :serial t
   :components
   ((:cl-source-file "package")

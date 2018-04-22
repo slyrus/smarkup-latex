@@ -1,5 +1,5 @@
 
-(in-package :smarkup)
+(in-package :smarkup-latex)
 
 (defparameter *pdflatex-program* "pdflatex")
 
